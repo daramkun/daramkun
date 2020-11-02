@@ -26,7 +26,7 @@ Game Creator Wannabe in South Korea
 |CPU|`AMD Ryzen 7 3700X Matisse`|
 |Mainboard|`MSI B550M Mortar Wi-Fi`|
 |Main memory|`ESSENCORE DDR4 16GB 2400Mhz` x2|
-|GPU|`AMD Radeon RX 5700XT` + `Yeston AMD Radeon RX 550`|
+|GPU|`GALAX NVIDIA GeForce RTX 3070 EX BLACK OC` + `Yeston AMD Radeon RX 550`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019`|
 |Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
