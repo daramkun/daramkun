@@ -40,8 +40,8 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
 |OS|`Apple macOS Catalina`|
-|External Storage|`Intel SSD 128GB`|
-|External Device|`Razor Core`|
+|External Storage|`Intel SSD 128GB` + `PNY Elite 480GB`|
+|External Device|`Razor Core` + `ZOTAC NVIDIA GeForce GTX 970`|
 
 ### Phone
 |Category|Parts|
