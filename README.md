@@ -1,6 +1,6 @@
 # Jin Jae-yeon
 
-[![Twitter](https://img.shields.io/badge/Twitter-daelumgi-blue)](https://twitter.com/daelumgi) [![Postype](https://img.shields.io/badge/Postype-daelumgi-yellowgreen)](https://daram.in) [![Discord](https://img.shields.io/badge/Discord-Daelumgi%237186-lightgrey)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-daelumgi-blue)](https://twitter.com/daelumgi) [![Postype](https://img.shields.io/badge/Postype-daelumgi-yellowgreen)](https://daelumgi.postype.com) [![Postype](https://img.shields.io/badge/Domain-daram.in-green)](https://daram.in) [![Discord](https://img.shields.io/badge/Discord-Daelumgi%237186-lightgrey)](#)
 
 Game Creator Wannabe in South Korea
 
@@ -26,7 +26,7 @@ Game Creator Wannabe in South Korea
 |CPU|`AMD Ryzen 7 3700X Matisse`|
 |Mainboard|`MSI B550M Mortar Wi-Fi`|
 |Main memory|`ESSENCORE DDR4 16GB 2400Mhz` x2|
-|GPU|`AMD Radeon RX 5700XT` + `Yeston AMD Radeon RX 550`|
+|GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019`|
 |Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
