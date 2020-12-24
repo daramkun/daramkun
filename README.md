@@ -16,7 +16,8 @@ Game Creator Wannabe in South Korea
 - [Video Slicer](https://github.com/daramkun/VideoSlicer)
 
 ## Personal Development Environments
-- `Microsoft Visual Studio 2019 Community`
+- `JetBrains Rider`
+- `Microsoft Visual Studio 2019 Community` + `JetBrains ReShaper Ultimate`
 - `Microsoft Visual Studio Code`
 - `Apple Xcode`
 - `Unity Personal`
