@@ -4,6 +4,10 @@
 
 Game Creator Wannabe in South Korea
 
+[![Jin Jae-yeon's github stats](https://github-readme-stats.vercel.app/api?username=daramkun&show_icons=true&hide_border=true)](https://github.com/daramkun)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daramkun&hide_border=true&layout=compact)](https://github.com/daramkun)
+
 ## Personal Projects
 - [DaramRenamer](https://github.com/daramkun/DaramRenamer)
 - [Lines Measure](https://github.com/daramkun/Lines-Measure)
@@ -30,7 +34,7 @@ Game Creator Wannabe in South Korea
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019`|
 |Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
-|HID|`iKBC CD-87` + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox One Controller S`|
+|HID|`iKBC CD-87` + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
 |Case|`JONSBO C3 PLUS Silver`|
 |OS|`Microsoft Windows 10 Pro 64-bit 20H2`|
@@ -39,7 +43,7 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
-|OS|`Apple macOS Catalina`|
+|OS|`Apple macOS Big Sur`|
 |External Storage|`Intel SSD 128GB` + `PNY Elite 480GB`|
 |External Device|`Razor Core` + `ZOTAC NVIDIA GeForce GTX 970`|
 
@@ -59,6 +63,12 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`Raspberry Pi 4 B 4GB`|
-|Storage|`SAMSUNG EVO plus 128GB U3` + `Toshiba Canvio Advance 3TB`|
+|Storage|`SAMSUNG EVO plus 128GB U3` + `WD Element 5TB`|
 |OS|`Raspbian 32-bit`|
 |Server|`Apache Web Server` + `Bukkit Minecraft Server` + `Discord Bots`|
+
+### Gaming Consoles
+|Category|Parts|
+|--------|-----|
+|Device|`Nintendo Switch (Animal Crossing Edition)`|
+|Storage|`SAMSUNG EVO plus 128GB U3`|
