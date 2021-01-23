@@ -60,8 +60,8 @@ Game Creator Wannabe in South Korea
 ### Phone
 |Category|Parts|
 |--------|-----|
-|Device|`LG G7 ThinQ`|
-|OS|`Android 10`|
+|Device|`SAMSUNG Galaxy S21 5G Phantom Pink`|
+|OS|`Android 11`|
 
 ### Tablet
 |Category|Parts|
@@ -74,8 +74,8 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Raspberry Pi 4 B 4GB`|
 |Storage|`SAMSUNG EVO plus 128GB U3` + `WD Element 5TB`|
-|OS|`Raspbian 32-bit`|
-|Server|`Apache Web Server` + `Bukkit Minecraft Server` + `Discord Bots`|
+|OS|`Ubuntu Server 20.10 arm64`|
+|Server|`Apache Web Server` + `PaperMC Minecraft Server` + `Discord Bots` + `Mail Server`|
 
 ### Gaming Consoles
 |Category|Parts|
