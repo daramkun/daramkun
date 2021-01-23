@@ -8,6 +8,15 @@ Game Creator Wannabe in South Korea
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daramkun&hide_border=true&layout=compact)](https://github.com/daramkun)
 
+## Contacts
+- E-Mails
+  - Main address: `daramkun@live.com`
+  - Sub address: `daramkun14@gmail.com`
+  - Business address: `Contact me first through another address.`
+  - Private address: `daramkun@daram.in` (This is unstable. Mail servere running on Raspberry Pi.)
+- Blog
+  - `https://daelumgi.postype.com`
+
 ## Personal Projects
 - [DaramRenamer](https://github.com/daramkun/DaramRenamer)
 - [Lines Measure](https://github.com/daramkun/Lines-Measure)
