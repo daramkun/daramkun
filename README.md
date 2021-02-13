@@ -13,9 +13,11 @@ Game Creator Wannabe in South Korea
   - Main address: `daramkun@live.com`
   - Sub address: `daramkun14@gmail.com`
   - Business address: `Contact me first through another address.`
-  - Private address: `daramkun@daram.in` (This is unstable. Mail servere running on Raspberry Pi.)
+  - Private address: `daramkun@daram.in` (This is unstable. Mail server running on Raspberry Pi.)
 - Blog
   - `https://daelumgi.postype.com`
+- Homepage
+  - `https://daram.in`
 
 ## Personal Projects
 - [DaramRenamer](https://github.com/daramkun/DaramRenamer)
@@ -32,6 +34,11 @@ Game Creator Wannabe in South Korea
 - `Unity Personal`
 - `vim`
 - `Git`
+
+## Favorite Programming Languages
+- `C#`
+- `C++`
+- `Objective-C`
 
 ## Personal Devices
 ### Desktop
@@ -55,7 +62,7 @@ Game Creator Wannabe in South Korea
 |Device|`Apple MacBook Air 13' 2019`|
 |OS|`Apple macOS Big Sur`|
 |External Storage|`Intel SSD 128GB` + `PNY Elite 480GB`|
-|External Device|`Razor Core` + `ZOTAC NVIDIA GeForce GTX 970`|
+|External Device|`Razer Core` + `ZOTAC NVIDIA GeForce GTX 970`|
 
 ### Phone
 |Category|Parts|
