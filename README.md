@@ -49,7 +49,7 @@ Game Creator Wannabe in South Korea
 |Main memory|`ESSENCORE DDR4 16GB 2400Mhz` x2|
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
-|Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019`|
+|Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019` + `RAZER Seiren Mini Mercury`|
 |Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
 |HID|`iKBC CD-87` + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
@@ -62,7 +62,7 @@ Game Creator Wannabe in South Korea
 |Device|`Apple MacBook Air 13' 2019`|
 |OS|`Apple macOS Big Sur`|
 |External Storage|`Intel SSD 128GB` + `PNY Elite 480GB`|
-|External Device|`Razer Core` + `ZOTAC NVIDIA GeForce GTX 970`|
+|External Device|`RAZER Core` + `ZOTAC NVIDIA GeForce GTX 970`|
 
 ### Phone
 |Category|Parts|
