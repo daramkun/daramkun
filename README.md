@@ -54,15 +54,13 @@ Game Creator Wannabe in South Korea
 |HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` <sub>Actually, I have 3 backup same mice.</sub> + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
 |Case|`JONSBO C3 PLUS Silver`|
-|OS|`Microsoft Windows 10 Pro 64-bit 20H2`|
+|OS|`Microsoft Windows 10 Pro 64-bit 21H1`|
 
 ### Laptop
 |Category|Parts|
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
 |OS|`Apple macOS Big Sur`|
-|External Storage|`Intel SSD 128GB` + `PNY Elite 480GB`|
-|External Device|`RAZER Core` + `ZOTAC NVIDIA GeForce GTX 970`|
 
 ### Phone
 |Category|Parts|
@@ -81,7 +79,7 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Raspberry Pi 4 B 4GB`|
 |Storage|`SAMSUNG EVO plus 128GB U3` + `WD Element 5TB`|
-|OS|`Ubuntu Server 20.10 arm64`|
+|OS|`Ubuntu Server 21.04 arm64`|
 |Server|`Apache Web Server` + `PaperMC Minecraft Server` + `Discord Bots` + `Mail Server`|
 
 ### Gaming Consoles
