@@ -13,7 +13,7 @@ Game Creator Wannabe in South Korea
   - Main address: `daramkun@live.com`
   - Sub address: `daramkun14@gmail.com`
   - Business address: `Contact me first through another address.`
-  - Private address: `daramkun@daram.in` (This is unstable. Mail server running on Raspberry Pi.)
+  - Private address: `daramkun@daram.in` (This is closed.)
 - Blog
   - `https://daelumgi.postype.com`
 - Homepage
@@ -50,7 +50,7 @@ Game Creator Wannabe in South Korea
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019` + `RAZER Seiren Mini Mercury`|
-|Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
+|Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB` + `WD Element 5TB`|
 |HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` <sub>Actually, I have 3 backup same mice.</sub> + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
 |Case|`JONSBO C3 PLUS Silver`|
@@ -78,7 +78,7 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`Raspberry Pi 4 B 4GB`|
-|Storage|`SAMSUNG EVO plus 128GB U3` + `WD Element 5TB`|
+|Storage|`SAMSUNG EVO plus 128GB U3`|
 |OS|`Ubuntu Server 21.04 arm64`|
 |Server|`Apache Web Server` + `PaperMC Minecraft Server` + `Discord Bots` + `Mail Server`|
 
