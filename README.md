@@ -61,6 +61,7 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
 |OS|`Apple macOS Big Sur`|
+|Servers|`Apache2 + PHP8 + MariaDB`, `Minecraft`, `Discord Bots`, `Jenkins`|
 
 ### Phone
 |Category|Parts|
