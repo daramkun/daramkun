@@ -61,7 +61,7 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
 |OS|`Apple macOS Big Sur`|
-|Servers|`Apache2 + PHP8 + MariaDB`, `Minecraft`, `Discord Bots`, `Jenkins`|
+|Servers|`Apache2 + PHP8 + MariaDB`, `Minecraft`, `Discord Bots`, `Jenkins`, `Xcode Build Server`|
 
 ### Phone
 |Category|Parts|
@@ -81,7 +81,6 @@ Game Creator Wannabe in South Korea
 |Device|`Raspberry Pi 4 B 4GB`|
 |Storage|`SAMSUNG EVO plus 128GB U3`|
 |OS|`Ubuntu Server 21.04 arm64`|
-|Server|`Apache Web Server` + `PaperMC Minecraft Server` + `Discord Bots` + `Mail Server`|
 
 ### Gaming Consoles
 |Category|Parts|
