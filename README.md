@@ -33,7 +33,7 @@ Game Creator Wannabe in South Korea
 - `Apple Xcode`
 - `Unity Personal`
 - `vim`
-- `Git`
+- `Fork` + `Git`
 
 ## Favorite Programming Languages
 - `C#`
@@ -51,7 +51,7 @@ Game Creator Wannabe in South Korea
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019` + `RAZER Seiren Mini Mercury`|
 |Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB` + `WD Element 5TB`|
-|HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` <sub>Actually, I have 3 backup same mice.</sub> + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
+|HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` <sub>Actually, I have 3 same backup mice.</sub> + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
 |Case|`JONSBO C3 PLUS Silver`|
 |OS|`Microsoft Windows 10 Pro 64-bit 21H1`|
@@ -61,26 +61,26 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
 |OS|`Apple macOS Big Sur`|
-|Servers|`Apache2 + PHP8 + MariaDB`, `Minecraft`, `Discord Bots`, `Jenkins`, `Xcode Build Server`|
 
 ### Phone
 |Category|Parts|
 |--------|-----|
-|Device|`SAMSUNG Galaxy S21 5G Phantom Pink`|
+|Device|`SAMSUNG Galaxy S21 5G`|
 |OS|`Android 11`|
 
 ### Tablet
 |Category|Parts|
 |--------|-----|
 |Device|`Apple iPad mini 5`|
-|OS|`Apple iPadOS 14`|
+|OS|`Apple iPadOS 15`|
 
 ### Raspberry Pi
 |Category|Parts|
 |--------|-----|
 |Device|`Raspberry Pi 4 B 4GB`|
 |Storage|`SAMSUNG EVO plus 128GB U3`|
-|OS|`Ubuntu Server 21.04 arm64`|
+|OS|`Raspberry Pi OS`|
+|Servers|`Apache2 + PHP + MariaDB`, `Minecraft`, `Discord Bots`, `Jenkins`|
 
 ### Gaming Consoles
 |Category|Parts|
