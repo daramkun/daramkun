@@ -28,7 +28,7 @@ Game Creator Wannabe in South Korea
 
 ## Personal Development Environments
 - `JetBrains Rider`
-- `Microsoft Visual Studio 2019 Community` + `JetBrains ReShaper Ultimate`
+- `Microsoft Visual Studio 2022 Community` + `JetBrains ReShaper Ultimate`
 - `Microsoft Visual Studio Code`
 - `Apple Xcode`
 - `Unity Personal`
@@ -50,17 +50,17 @@ Game Creator Wannabe in South Korea
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019` + `RAZER Seiren Mini Mercury`|
-|Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB` + `WD Element 5TB`|
+|Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Micron Cricual P5 2TB` + `Seagate FireCuda ST2000LX001 2TB` + `WD Element 5TB`|
 |HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` <sub>Actually, I have 3 same backup mice.</sub> + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
 |Case|`JONSBO C3 PLUS Silver`|
-|OS|`Microsoft Windows 10 Pro 64-bit 21H1`|
+|OS|`Microsoft Windows 11 Pro 64-bit`|
 
 ### Laptop
 |Category|Parts|
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
-|OS|`Apple macOS Big Sur`|
+|OS|`Apple macOS Monterey`|
 
 ### Phone
 |Category|Parts|
