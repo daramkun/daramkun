@@ -56,7 +56,13 @@ Game Creator Wannabe in South Korea
 |Case|`JONSBO C3 PLUS Silver`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
 
-### Laptop
+### Windows/Linux Laptop
+|Category|Parts|
+|--------|-----|
+|Device|`ASUS Vivobook Pro 14X OLED i5 Model`|
+|OS|`Microsoft Windows 11 Pro 64-bit` + `WSL2g`|
+
+### macOS Laptop
 |Category|Parts|
 |--------|-----|
 |Device|`Apple MacBook Air 13' 2019`|
