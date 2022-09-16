@@ -50,43 +50,37 @@ Game Creator Wannabe in South Korea
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019` + `RAZER Seiren Mini Mercury`|
-|Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Micron Cricual P5 2TB` + `Seagate FireCuda ST2000LX001 2TB` + `WD Element 5TB`|
-|HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` <sub>Actually, I have 3 same backup mice.</sub> + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
+|Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Micron Cricual P5 2TB` + `Seagate FireCuda ST2000LX001 2TB`|
+|HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
 |Case|`JONSBO C3 PLUS Silver`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
 
-### Windows/Linux Laptop
+### Windows Laptop
 |Category|Parts|
 |--------|-----|
 |Device|`ASUS Vivobook Pro 14X OLED i5 Model`|
-|OS|`Microsoft Windows 11 Pro 64-bit` + `WSL2g`|
+|OS|`Microsoft Windows 11 Pro 64-bit`|
 
-### macOS Laptop
+### macOS Desktop
 |Category|Parts|
 |--------|-----|
-|Device|`Apple MacBook Air 13' 2019`|
+|Device|`Apple MacMini 2020 M1`|
 |OS|`Apple macOS Monterey`|
+|Storage|`Internal 256GB` + `WD 8TB CMR HDD`|
+|Servers|`Discord Bots`, `Jenkins`|
 
 ### Phone
 |Category|Parts|
 |--------|-----|
 |Device|`SAMSUNG Galaxy S21 5G`|
-|OS|`Android 11`|
+|OS|`Android 12`|
 
 ### Tablet
 |Category|Parts|
 |--------|-----|
 |Device|`Apple iPad mini 5`|
 |OS|`Apple iPadOS 15`|
-
-### Raspberry Pi
-|Category|Parts|
-|--------|-----|
-|Device|`Raspberry Pi 4 B 4GB`|
-|Storage|`SAMSUNG EVO plus 128GB U3`|
-|OS|`Raspberry Pi OS`|
-|Servers|`Apache2 + PHP + MariaDB`, `Minecraft`, `Discord Bots`, `Jenkins`|
 
 ### Gaming Consoles
 |Category|Parts|
