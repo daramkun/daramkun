@@ -28,7 +28,7 @@ Game Creator Wannabe in South Korea
 
 ## Personal Development Environments
 - `JetBrains Rider`
-- `Microsoft Visual Studio 2022 Community` + `JetBrains ReShaper Ultimate`
+- `Microsoft Visual Studio 2022 Community`
 - `Microsoft Visual Studio Code`
 - `Apple Xcode`
 - `Unity Personal`
@@ -49,7 +49,7 @@ Game Creator Wannabe in South Korea
 |Main memory|`ESSENCORE DDR4 16GB 2400Mhz` x2|
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
-|Audio|`Creative Sound Blaster X G5` + `SteelSeries Arctis 3 2019` + `RAZER Seiren Mini Mercury`|
+|Audio|`LG Quadbeat 3`, `RAZER Seiren Mini Mercury`|
 |Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Micron Cricual P5 2TB` + `Seagate FireCuda ST2000LX001 2TB`|
 |HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
 |PSU|`FSP HYDRO GE 650W GOLD`|
@@ -66,9 +66,9 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`Apple MacMini 2020 M1`|
-|OS|`Apple macOS Monterey`|
+|OS|`Apple macOS Ventura`|
 |Storage|`Internal 256GB` + `WD 8TB CMR HDD`|
-|Servers|`Discord Bots`, `Jenkins`|
+|Servers|`Discord Bots`, `Jenkins`, `WebDAV`, `Samba`|
 
 ### Phone
 |Category|Parts|
@@ -80,7 +80,7 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`Apple iPad mini 5`|
-|OS|`Apple iPadOS 15`|
+|OS|`Apple iPadOS 16`|
 
 ### Gaming Consoles
 |Category|Parts|
