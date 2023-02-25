@@ -44,16 +44,16 @@ Game Creator Wannabe in South Korea
 ### Desktop
 |Category|Parts|
 |--------|-----|
-|CPU|`AMD Ryzen 7 3700X Matisse`|
-|Mainboard|`MSI B550M Mortar Wi-Fi`|
-|Main memory|`ESSENCORE DDR4 16GB 2400Mhz` x2|
+|CPU|`AMD Ryzen 7 7700X Raphael` + `Thermalright FROZEN MAGIC 240 SCENIC`|
+|Mainboard|`MSI B650I Edge Wi-Fi`|
+|Main memory|`G-SKILL DDR5 FLARE X5 J 16GB 6000Mhz` x2|
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`LG Quadbeat 3`, `RAZER Seiren Mini Mercury`|
-|Storage|`WD SN550 1TB` + `SAMSUNG 860 EVO 1TB` + `Micron Cricual P5 2TB` + `Seagate FireCuda ST2000LX001 2TB`|
-|HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S`|
-|PSU|`FSP HYDRO GE 650W GOLD`|
-|Case|`JONSBO C3 PLUS Silver`|
+|Storage|`Micron Crucial P5 Plus 1TB` + `Micron Crucial P5 2TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
+|HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S` + `Sony DualSense Controller`|
+|PSU|`Seasonic FOCUS SFX-L SSR-650SGX GOLD`|
+|Case|`Lian-Li A4-H2O Mini-ITX`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
 
 ### Windows Laptop
@@ -67,20 +67,20 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Apple MacMini 2020 M1`|
 |OS|`Apple macOS Ventura`|
-|Storage|`Internal 256GB` + `WD 8TB CMR HDD`|
+|Storage|`Internal 256GB` + `WD 8TB CMR HDD`<sub>for NAS</sub> + `TOSHIBA CANVIO BASIC 3TB`<sub>for Sub NAS</sub> + `PNY Elite 480GB`<sub>for External Storage for Mac</sub>|
 |Servers|`Discord Bots`, `Jenkins`, `WebDAV`, `Samba`|
 
 ### Phone
 |Category|Parts|
 |--------|-----|
 |Device|`SAMSUNG Galaxy S21 5G`|
-|OS|`Android 12`|
+|OS|`Android 13`<sub>OneUI 5.1</sub>|
 
 ### Tablet
 |Category|Parts|
 |--------|-----|
 |Device|`Apple iPad mini 5`|
-|OS|`Apple iPadOS 16`|
+|OS|`Apple iPadOS 16.3`|
 
 ### Gaming Consoles
 |Category|Parts|
