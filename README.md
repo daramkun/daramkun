@@ -49,9 +49,9 @@ Game Creator Wannabe in South Korea
 |Main memory|`G-SKILL DDR5 FLARE X5 J 16GB 6000Mhz` x2|
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
-|Audio|`LG Quadbeat 3`, `RAZER Seiren Mini Mercury`|
+|Audio|`Creative Sound-Blaster X G5` + `LG Quadbeat 3`, `RAZER Seiren Mini Mercury`|
 |Storage|`Micron Crucial P5 Plus 1TB` + `Micron Crucial P5 2TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
-|HID|`iKBC CD-87` <sub>for Coding</sub> + `Leopold FC660M` <sub>for Gaming</sub> + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S` + `Sony DualSense Controller`|
+|HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Leopold FC660M` <sub>Backup Keyboard</sub> + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S` + `Sony DualSense Controller`|
 |PSU|`Seasonic FOCUS SFX-L SSR-650SGX GOLD`|
 |Case|`Lian-Li A4-H2O Mini-ITX`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
@@ -80,7 +80,7 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`Apple iPad mini 5`|
-|OS|`Apple iPadOS 16.3`|
+|OS|`Apple iPadOS 16.4`|
 
 ### Gaming Consoles
 |Category|Parts|
