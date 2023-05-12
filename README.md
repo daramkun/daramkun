@@ -82,6 +82,12 @@ Game Creator Wannabe in South Korea
 |Device|`Apple iPad mini 5`|
 |OS|`Apple iPadOS 16.4`|
 
+|Category|Parts|
+|--------|-----|
+|Devic|`SAMSUNG GalaxyTab S8+ 256GB`|
+|OS|`Android 13`<sub>OneUI 5.1</sub>|
+|Accessaries|Keyboard BookCover|
+
 ### Gaming Consoles
 |Category|Parts|
 |--------|-----|
