@@ -25,6 +25,7 @@ Game Creator Wannabe in South Korea
 - [File Type Detector](https://github.com/daramkun/FileTypeDetector)
 - [probster](https://github.com/daramkun/probster)
 - [Video Slicer](https://github.com/daramkun/VideoSlicer)
+- [Hazelnut.Log](https://github.com/daramkun/Hazelnut.Log)
 
 ## Personal Development Environments
 - `JetBrains Rider`
