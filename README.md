@@ -13,7 +13,6 @@ Game Creator Wannabe in South Korea
   - Main address: `daramkun@live.com`
   - Sub address: `daramkun14@gmail.com`
   - Business address: `Contact me first through another address.`
-  - Private address: `daramkun@daram.in` (This is closed.)
 - Blog
   - `https://daelumgi.postype.com`
 
