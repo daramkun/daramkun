@@ -16,8 +16,6 @@ Game Creator Wannabe in South Korea
   - Private address: `daramkun@daram.in` (This is closed.)
 - Blog
   - `https://daelumgi.postype.com`
-- Homepage
-  - `https://daram.in`
 
 ## Personal Projects
 - [DaramRenamer](https://github.com/daramkun/DaramRenamer)
