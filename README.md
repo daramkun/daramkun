@@ -64,7 +64,7 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`Apple MacMini 2020 M1`|
-|OS|`Apple macOS Ventura`|
+|OS|`Apple macOS Sonoma`|
 |Storage|`Internal 256GB` + `WD 8TB CMR HDD`<sub>for NAS</sub> + `TOSHIBA CANVIO BASIC 3TB`<sub>for Sub NAS</sub> + `PNY Elite 480GB`<sub>for External Storage for Mac</sub>|
 |Servers|`Discord Bots`, `Jenkins`, `WebDAV`, `Samba`|
 
@@ -72,18 +72,18 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`SAMSUNG Galaxy S21 5G`|
-|OS|`Android 13`<sub>OneUI 5.1</sub>|
+|OS|`Android 14`<sub>OneUI 6</sub>|
 
 ### Tablet
 |Category|Parts|
 |--------|-----|
 |Device|`Apple iPad mini 5`|
-|OS|`Apple iPadOS 16.4`|
+|OS|`Apple iPadOS 17.2`|
 
 |Category|Parts|
 |--------|-----|
 |Devic|`SAMSUNG GalaxyTab S8+ 256GB`|
-|OS|`Android 13`<sub>OneUI 5.1</sub>|
+|OS|`Android 14`<sub>OneUI 6</sub>|
 |Accessaries|Keyboard BookCover|
 
 ### Gaming Consoles
