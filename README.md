@@ -86,6 +86,11 @@ Game Creator Wannabe in South Korea
 |OS|`Android 14`<sub>OneUI 6</sub>|
 |Accessaries|Keyboard BookCover|
 
+|Category|Parts|
+|--------|-----|
+|Devic|`Lenovo Legion y700 2023 12GB`|
+|OS|`Android 13`<sub>ZUI 15</sub>|
+
 ### Gaming Consoles
 |Category|Parts|
 |--------|-----|
