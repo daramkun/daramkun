@@ -1,6 +1,6 @@
 # Jin Jae-yeon
 
-[![Twitter](https://img.shields.io/badge/Twitter-daelumgi-blue)](https://twitter.com/daelumgi) [![Postype](https://img.shields.io/badge/Postype-daelumgi-yellowgreen)](https://daelumgi.postype.com) [![Postype](https://img.shields.io/badge/Domain-daram.in-green)](https://daram.in) [![Discord](https://img.shields.io/badge/Discord-Daelumgi%237186-lightgrey)](#)
+[![Twitter](https://img.shields.io/badge/daelumgi-blue?logo=Twitter)](https://twitter.com/daelumgi) [![Postype](https://img.shields.io/badge/Postype-daelumgi-yellowgreen)](https://daelumgi.postype.com) [![Homepage](https://img.shields.io/badge/daram.in-green?logo=nginx)](https://daram.in) [![Discord](https://img.shields.io/badge/daelumgi-lightgrey?logo=Discord)](#) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaramkun&count_bg=%23337CBC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Game Creator Wannabe in South Korea
 
