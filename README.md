@@ -25,7 +25,7 @@ Game Creator Wannabe in South Korea
 - [Hazelnut.Log](https://github.com/daramkun/Hazelnut.Log)
 
 ## Personal Development Environments
-- `JetBrains Rider`
+- `JetBrains Rider` + `JetBrains CLion` + `JetBrains IntelliJ IDEA Community`
 - `Microsoft Visual Studio 2022 Community`
 - `Microsoft Visual Studio Code`
 - `Apple Xcode`
@@ -47,9 +47,9 @@ Game Creator Wannabe in South Korea
 |Main memory|`G-SKILL DDR5 FLARE X5 J 16GB 6000Mhz` x2|
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
-|Audio|`Creative Sound-Blaster X G5` + `LG Quadbeat 3`, `RAZER Seiren Mini Mercury`|
-|Storage|`Micron Crucial P5 Plus 1TB` + `Micron Crucial P5 2TB` + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
-|HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Leopold FC660M` <sub>Backup Keyboard</sub> + `Logitec G102 LIGHTSYNC` + `Microsoft Xbox Controller Receiver` + `Microsoft Xbox One Controller S` + `Sony DualSense Controller`|
+|Audio|`JBL TUNE110`, `RAZER Seiren Mini Mercury`|
+|Storage|`Micron Crucial P5 Plus 1TB` + `Micron Crucial P5 2TB`|
+|HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Leopold FC660M` <sub>Backup Keyboard</sub> + `Logitec G102 LIGHTSYNC` + `8BitDo ULTIMATE Controller (Bluetooth)`|
 |PSU|`Seasonic FOCUS SFX-L SSR-650SGX GOLD`|
 |Case|`Lian-Li A4-H2O Mini-ITX`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
@@ -65,8 +65,15 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Apple MacMini 2020 M1`|
 |OS|`Apple macOS Sonoma`|
-|Storage|`Internal 256GB` + `WD 8TB CMR HDD`<sub>for NAS</sub> + `TOSHIBA CANVIO BASIC 3TB`<sub>for Sub NAS</sub> + `PNY Elite 480GB`<sub>for External Storage for Mac</sub>|
+|Storage|`Internal 256GB` + `WD 8TB CMR HDD`<sub>for NAS</sub> + `TOSHIBA CANVIO BASIC 3TB`<sub>for Sub NAS</sub> + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
 |Servers|`Discord Bots`, `Jenkins`, `WebDAV`, `Samba`|
+
+### SBC
+|Category|Parts|
+|--------|-----|
+|Device|`Raspberry Pi 4 8GB`|
+|OS|`Raspberry Pi OS Bookworm`|
+|Storage|`SAMSUNG EVO plus 512GB U3`|
 
 ### Phone
 |Category|Parts|
@@ -84,12 +91,13 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Devic|`SAMSUNG GalaxyTab S8+ 256GB`|
 |OS|`Android 14`<sub>OneUI 6</sub>|
-|Accessaries|Keyboard BookCover|
+|Accessaries|`Keyboard BookCover`, `SAMSUNG EVO plus 256GB U3`|
 
 |Category|Parts|
 |--------|-----|
 |Devic|`Lenovo Legion y700 2023 12GB`|
 |OS|`Android 13`<sub>ZUI 15</sub>|
+|Accessaries|`8BitDo Micro GamePad`|
 
 ### Gaming Consoles
 |Category|Parts|
