@@ -73,7 +73,7 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Device|`Raspberry Pi 4 8GB`|
 |OS|`Raspberry Pi OS Bookworm`|
-|Storage|`SAMSUNG EVO plus 512GB U3`|
+|Storage|`SAMSUNG EVO PLUS 512GB U3`|
 
 ### Phone
 |Category|Parts|
@@ -91,16 +91,16 @@ Game Creator Wannabe in South Korea
 |--------|-----|
 |Devic|`SAMSUNG GalaxyTab S8+ 256GB`|
 |OS|`Android 14`<sub>OneUI 6</sub>|
-|Accessaries|`Keyboard BookCover`, `SAMSUNG EVO plus 256GB U3`|
+|Accessaries|`Keyboard BookCover`, `SAMSUNG PRO PLUS 256GB U3`|
 
 |Category|Parts|
 |--------|-----|
 |Devic|`Lenovo Legion y700 2023 12GB`|
 |OS|`Android 13`<sub>ZUI 15</sub>|
-|Accessaries|`8BitDo Micro GamePad`|
+|Accessaries|`8BitDo Micro GamePad`, `SAMSUNG EVO PLUS 128GB U3`|
 
 ### Gaming Consoles
 |Category|Parts|
 |--------|-----|
 |Device|`Nintendo Switch (Animal Crossing Edition)`|
-|Storage|`SAMSUNG EVO plus 128GB U3`|
+|Storage|`SAMSUNG EVO PLUS 128GB U3`|
