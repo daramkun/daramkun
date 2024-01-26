@@ -78,8 +78,8 @@ Game Creator Wannabe in South Korea
 ### Phone
 |Category|Parts|
 |--------|-----|
-|Device|`SAMSUNG Galaxy S21 5G`|
-|OS|`Android 14`<sub>OneUI 6</sub>|
+|Device|`SAMSUNG Galaxy S24+ 512GB`|
+|OS|`Android 14`<sub>OneUI 6.1</sub>|
 
 ### Tablet
 |Category|Parts|
