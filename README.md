@@ -38,6 +38,14 @@ Game Creator Wannabe in South Korea
 - `C++`
 - `Objective-C`
 
+## Usable Programming Languages
+- `C#`
+- `C`/`C++`
+- `Objective-C` (with Little bit of `Swift`)
+- `Java` (with Little bit of `Kotlin`)
+- `Javascript`/`Typescript`
+- `Elixir`
+
 ## Personal Devices
 ### Desktop
 |Category|Parts|
@@ -68,13 +76,6 @@ Game Creator Wannabe in South Korea
 |Storage|`Internal 256GB` + `WD 8TB CMR HDD`<sub>for NAS</sub> + `TOSHIBA CANVIO BASIC 3TB`<sub>for Sub NAS</sub> + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
 |Servers|`Discord Bots`, `Jenkins`, `WebDAV`, `Samba`|
 
-### SBC
-|Category|Parts|
-|--------|-----|
-|Device|`Raspberry Pi 4 8GB`|
-|OS|`Raspberry Pi OS Bookworm`|
-|Storage|`SAMSUNG EVO PLUS 512GB U3`|
-
 ### Phone
 |Category|Parts|
 |--------|-----|
@@ -82,11 +83,6 @@ Game Creator Wannabe in South Korea
 |OS|`Android 14`<sub>OneUI 6.1</sub>|
 
 ### Tablet
-|Category|Parts|
-|--------|-----|
-|Device|`Apple iPad mini 5`|
-|OS|`Apple iPadOS 17.2`|
-
 |Category|Parts|
 |--------|-----|
 |Devic|`SAMSUNG GalaxyTab S8+ 256GB`|
