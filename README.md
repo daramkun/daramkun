@@ -57,7 +57,7 @@ Game Creator Wannabe in South Korea
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
 |Audio|`JBL TUNE110`, `RAZER Seiren Mini Mercury`|
 |Storage|`Micron Crucial P5 Plus 1TB` + `Micron Crucial P5 2TB`|
-|HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Leopold FC660M` <sub>Backup Keyboard</sub> + `Logitec G102 LIGHTSYNC` + `8BitDo ULTIMATE Controller (Bluetooth)`|
+|HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Leopold FC660M` <sub>Backup Keyboard</sub> + `Logitec G309` + `Logitec POWERPLAY` + `8BitDo ULTIMATE Controller (Bluetooth)`|
 |PSU|`Seasonic FOCUS SFX-L SSR-650SGX GOLD`|
 |Case|`Lian-Li A4-H2O Mini-ITX`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
