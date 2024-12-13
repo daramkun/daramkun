@@ -47,17 +47,26 @@ Game Creator Wannabe in South Korea
 - `Elixir`
 
 ## Personal Devices
-### Desktop
+### macOS Desktop
+|Category|Parts|
+|--------|-----|
+|Device|`Apple MacMini 2024 M4`|
+|Main memory|`32GB`|
+|Storage|`Internal 512GB` + `Micron Crucial T500 2TB`|
+|Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
+|Audio|`JBL TUNE110`, `RAZER Seiren Mini Mercury`|
+|HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Logitec G309` + `Logitec POWERPLAY`|
+|OS|`Apple macOS Sequoia`|
+
+### Windows Desktop
 |Category|Parts|
 |--------|-----|
 |CPU|`AMD Ryzen 7 7700X Raphael` + `Thermalright FROZEN MAGIC 240 SCENIC`|
 |Mainboard|`MSI B650I Edge Wi-Fi`|
 |Main memory|`G-SKILL DDR5 FLARE X5 J 16GB 6000Mhz` x2|
 |GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
-|Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
-|Audio|`JBL TUNE110`, `RAZER Seiren Mini Mercury`|
 |Storage|`Micron Crucial P5 Plus 1TB` + `Micron Crucial P5 2TB`|
-|HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Leopold FC660M` <sub>Backup Keyboard</sub> + `Logitec G309` + `Logitec POWERPLAY` + `8BitDo ULTIMATE Controller (Bluetooth)`|
+|HID|`8BitDo ULTIMATE Controller (Bluetooth)`|
 |PSU|`Seasonic FOCUS SFX-L SSR-650SGX GOLD`|
 |Case|`Lian-Li A4-H2O Mini-ITX`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
@@ -68,12 +77,11 @@ Game Creator Wannabe in South Korea
 |Device|`ASUS Vivobook Pro 14X OLED i5 Model`|
 |OS|`Microsoft Windows 11 Pro 64-bit`|
 
-### macOS Desktop
+### SBC
 |Category|Parts|
 |--------|-----|
-|Device|`Apple MacMini 2020 M1`|
-|OS|`Apple macOS Sonoma`|
-|Storage|`Internal 256GB` + `WD 8TB CMR HDD`<sub>for NAS</sub> + `TOSHIBA CANVIO BASIC 3TB`<sub>for Sub NAS</sub> + `SAMSUNG 860 EVO 1TB` + `Seagate FireCuda ST2000LX001 2TB`|
+|Device|`Raspberry Pi 4B 8GB`|
+|Storage|`SAMSUNG MicroSD EVO 256GB` + `WD 8TB CMR HDD` x2<sub>for NAS with QNAP TR-002</sub>|
 |Servers|`Discord Bots`, `Jenkins`, `WebDAV`, `Samba`|
 
 ### Phone
