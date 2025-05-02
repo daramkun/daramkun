@@ -58,30 +58,20 @@ Game Creator Wannabe in South Korea
 |HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Logitec G309` + `Logitec POWERPLAY`|
 |OS|`Apple macOS Sequoia`|
 
-### Windows Desktop
-|Category|Parts|
-|--------|-----|
-|CPU|`AMD Ryzen 7 7700X Raphael` + `Thermalright FROZEN MAGIC 240 SCENIC`|
-|Mainboard|`MSI B650I Edge Wi-Fi`|
-|Main memory|`G-SKILL DDR5 FLARE X5 J 16GB 6000Mhz` x2|
-|GPU|`GALAX NVIDIA GeForce RTX 3070 EX OC BLACK`|
-|Storage|`Micron Crucial P5 Plus 1TB` + `Micron Crucial P5 2TB`|
-|HID|`8BitDo ULTIMATE Controller (Bluetooth)`|
-|PSU|`Seasonic FOCUS SFX-L SSR-650SGX GOLD`|
-|Case|`Lian-Li A4-H2O Mini-ITX`|
-|OS|`Microsoft Windows 11 Pro 64-bit`|
-
 ### Windows Laptop
 |Category|Parts|
 |--------|-----|
-|Device|`ASUS Vivobook Pro 14X OLED i5 Model`|
-|OS|`Microsoft Windows 11 Pro 64-bit`|
+|Device|`ASUS ZenBook S 16 OLED (AMD Ryzen AI 9 HX 370 + 32GB)`|
+|HID|`8BitDo ULTIMATE Controller (Bluetooth)`|
+|Accessories|`AOOSTAR AG02S` + `SAPPHIRE AMD Radeon RX 9070 PULSE`, `ARTMU MH610 Multi Hub`|
+|OS|`Microsoft Windows 11 Home 64-bit`|
 
-### SBC
+### Home Server
 |Category|Parts|
 |--------|-----|
-|Device|`Raspberry Pi 4B 8GB`|
-|Storage|`SAMSUNG MicroSD EVO 256GB` + `WD 8TB CMR HDD` x2<sub>for NAS with QNAP TR-002</sub>|
+|Device|`OUMAX MAX N N150`|
+|Main memory|`SAMSUNG DDR4 16GB`|
+|Storage|`Micron QLC 1TB` + `SAMSUNG 990 2TB` + `WD 8TB CMR HDD` x2<sub>for NAS with QNAP TR-002</sub>|
 |Servers|`Discord Bots`, `Jenkins`, `WebDAV`, `Samba`|
 
 ### Phone
