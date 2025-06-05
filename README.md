@@ -54,7 +54,7 @@ Game Creator Wannabe in South Korea
 |Main memory|`32GB`|
 |Storage|`Internal 512GB` + `Micron Crucial T500 2TB`|
 |Display|`HANSUNG TFG32Q14F` + `HANSUNG ULTRON 2559G`|
-|Audio|`JBL TUNE110`, `RAZER Seiren Mini Mercury`|
+|Audio|`JBL TUNE110`, `SOUND BLASTER X G5`, `RAZER Seiren Mini Mercury`|
 |HID|`TYPONE MarsPro Shooting-Star` <sub>CHERRY MX Red-switch</sub> + `Logitec G309` + `Logitec POWERPLAY`|
 |OS|`Apple macOS Sequoia`|
 
@@ -78,13 +78,13 @@ Game Creator Wannabe in South Korea
 |Category|Parts|
 |--------|-----|
 |Device|`SAMSUNG Galaxy S24+ 512GB`|
-|OS|`Android 14`<sub>OneUI 6.1</sub>|
+|OS|`Android 15`<sub>OneUI 7.0</sub>|
 
 ### Tablet
 |Category|Parts|
 |--------|-----|
 |Devic|`SAMSUNG GalaxyTab S8+ 256GB`|
-|OS|`Android 14`<sub>OneUI 6</sub>|
+|OS|`Android 15`<sub>OneUI 7.0</sub>|
 |Accessaries|`Keyboard BookCover`, `SAMSUNG PRO PLUS 256GB U3`|
 
 |Category|Parts|
